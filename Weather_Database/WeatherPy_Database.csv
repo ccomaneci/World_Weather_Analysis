@@ -1,4 +1,4 @@
-City,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Nelson Bay,AU,-32.7167,152.15,70.0,92,100,4.0,moderate rain
 1,Vaini,TO,-21.2,-175.2,74.26,80,71,22.03,light rain
 2,Port Elizabeth,ZA,-33.918,25.5701,57.49,94,75,2.3,broken clouds
